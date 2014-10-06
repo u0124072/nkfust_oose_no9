@@ -16,7 +16,7 @@
 
 **貳、利害人關係目標表**
 
-<table border="0">
+<table border="1">
   <tr>
     <th>利害關係人（參與者）</th>
     <th>目標</th>
@@ -119,7 +119,7 @@
     <td colspan=2>無。</td>
   </tr>  
 </table>
-<table border="0" align="left">
+<table border="1" align="left">
   <tr>
     <td width="170"><b>使用案例名稱</b></td>
     <td colspan=2>書桌編號作業。</td>
@@ -176,7 +176,7 @@
     <td colspan=2>無。</td>
   </tr>  
 </table>
-<table border="0" align="left">
+<table border="1" align="left">
   <tr>
     <td width="170"><b>使用案例名稱</b></td>
     <td colspan=2>登記預借作業。</td>
