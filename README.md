@@ -87,14 +87,8 @@
     </tr>       
     <tr>
       <th>主要成功情節</th>
-      <tr>
-        <th>參與者</th>
-        <th>系統</th>
-      </tr>
-      <tr>
-        <td>參與者</td>
-        <td>系統</td>
-      </tr>
+      <th>參與者</th>
+      <th>系統</th>
     </tr>        
     <tr>
       <th>例外情節</th>
