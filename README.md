@@ -66,27 +66,27 @@
       <td colspan=2>會員基本資料作業。</td>
     </tr>
     <tr>
-      <th>使用案例描述</th>
+      <td><b>使用案例描述</b></td>
       <td colspan=2>當有新生入學時，網路資料庫管理員啟動系統新增、修改或刪除會員基本資料。</td>
     </tr>
     <tr>
-      <th>主要參與者</th>
+      <td><b>主要參與者</b></td>
       <td colspan=2>網路資料庫管理員。</td>
     </tr>    
     <tr>
-      <th>利害關係人與目標</th>
+      <td><b>利害關係人與目標</b></td>
       <td colspan=2>能夠正確紀錄會員基本資料。</td>
     </tr>  
     <tr>
-      <th>前置條件</th>
+      <td><b>前置條件</b></td>
       <td colspan=2>無。</td>
     </tr>   
     <tr>
-      <th>後置條件</th>
+      <td><b>後置條件</b></td>
       <td colspan=2>正確建立、修改或刪除會員基本資料。</td>
     </tr>       
     <tr>
-      <th rowspan=2>主要成功情節</th>
+      <td rowspan=2><b>主要成功情節</b></td>
       <th>參與者</th>
       <th>系統</th>
     </tr>       
