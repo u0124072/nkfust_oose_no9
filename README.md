@@ -22,7 +22,7 @@
 
 **貳、利害人關係目標表**
 
-<table border="0">
+  <table border="0">
     <tr>
       <th>利害關係人（參與者）</th>
       <th>目標</th>
@@ -47,7 +47,7 @@
         1.即時掌握各空間的使用。<br>
         2.維護讀書環境。</td>
     </tr>
-</table>
+  </table>
 
 **參、事件與使用案例對照表**
 
@@ -61,4 +61,5 @@
 | 使用者查詢預借紀錄       | 紀錄查詢作業     |
 
 **肆、使用案例圖**
-<img src="http://i.imgur.com/NMn8gCs.jpg?1" title="使用案例圖" />
+
+<p><img src="http://i.imgur.com/NMn8gCs.jpg?1" title="使用案例圖" /></p>
