@@ -60,7 +60,7 @@
 
 **伍、個別使用案例的描述**
 
-  <table border="0">
+  <table border="0" align="left">
     <tr>
       <th>使用案例名稱</th>
       <td colspan=2>會員基本資料作業。</td>
@@ -112,11 +112,11 @@
     </tr> 
     <tr>
       <th>例外情節</th>
-      <td>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
+      <td colspan=2>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
     </tr>  
     <tr>
       <th>其他需求</th>
-      <td>無。</td>
+      <td colspan=2>無。</td>
     </tr>  
   </table>
   
