@@ -16,7 +16,7 @@
 
 **貳、利害人關係目標表**
 
-<table border="1">
+<table border="0">
   <tr>
     <th>利害關係人（參與者）</th>
     <th>目標</th>
@@ -214,6 +214,105 @@
     <td>1.1系統檢查輸入資料格式，如果有誤要求重新輸入。<br>
         2.1系統開啟建立預借畫面。<br><br>
         3.1預借成功，系統則出現”預借成功”，並顯示詳細的預借資料。<br>
+    </td>
+  </tr> 
+  <tr>
+    <th>例外情節</th>
+    <td colspan=2>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
+  </tr>  
+  <tr>
+    <th>其他需求</th>
+    <td colspan=2>無。</td>
+  </tr>  
+</table>
+<table border="1" align="left">
+  <tr>
+    <td width="170"><b>使用案例名稱</b></td>
+    <td colspan=2>取消預借作業。</td>
+  </tr>
+  <tr>
+    <td><b>使用案例描述</b></td>
+    <td colspan=2>取消預借資料。</td>
+  </tr>
+  <tr>
+    <td><b>主要參與者</b></td>
+    <td colspan=2>會員。</td>
+  </tr>    
+  <tr>
+    <td><b>利害關係人與目標</b></td>
+    <td colspan=2>能夠正確取消預借資料。</td>
+  </tr>  
+  <tr>
+    <td><b>前置條件</b></td>
+    <td colspan=2>必須是會員且有預借成功。</td>
+  </tr>   
+  <tr>
+    <td><b>後置條件</b></td>
+    <td colspan=2>正確取消預借資料。</td>
+  </tr>       
+  <tr>
+    <td rowspan=2><b>主要成功情節</b></td>
+    <th>參與者</th>
+    <th>系統</th>
+  </tr>       
+  <tr align="left" valign="top">
+    <td>1.會員輸入帳號密碼。<br><br>
+        2.當有會員登記欲取消座位時，會員進入取消登記預借畫面，取消預借資料。<br>
+        3.會員須人工檢查取消預借資料是否成功。<br>
+    </td>
+    <td>1.1系統檢查輸入資料格式，如果有誤要求重新輸入。<br>
+        2.1系統開啟取消預借畫面。<br><br>
+        3.1取消預借成功，系統則出現”已取消預借”。<br>
+    </td>
+  </tr> 
+  <tr>
+    <th>例外情節</th>
+    <td colspan=2>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
+  </tr>  
+  <tr>
+    <th>其他需求</th>
+    <td colspan=2>無。</td>
+  </tr>  
+</table>
+<table border="1" align="left">
+  <tr>
+    <td width="170"><b>使用案例名稱</b></td>
+    <td colspan=2>記錄查詢作業。</td>
+  </tr>
+  <tr>
+    <td><b>使用案例描述</b></td>
+    <td colspan=2>查詢預借座位的編號。</td>
+  </tr>
+  <tr>
+    <td><b>主要參與者</b></td>
+    <td colspan=2>會員。</td>
+  </tr>    
+  <tr>
+    <td><b>利害關係人與目標</b></td>
+    <td colspan=2>能夠查詢個人預借的座位編號。</td>
+  </tr>  
+  <tr>
+    <td><b>前置條件</b></td>
+    <td colspan=2>必須是會員。</td>
+  </tr>   
+  <tr>
+    <td><b>後置條件</b></td>
+    <td colspan=2>正確查詢各座位編號。</td>
+  </tr>       
+  <tr>
+    <td rowspan=2><b>主要成功情節</b></td>
+    <th>參與者</th>
+    <th>系統</th>
+  </tr>       
+  <tr align="left" valign="top">
+    <td>1.會員輸入帳號密碼。<br><br>
+        2.當有會員欲查詢座位時，會員進入記錄查詢畫面。<br>
+        3.會員輸入欲查詢時段，若要取消編輯按取消鍵。<br>
+    </td>
+    <td>1.1系統檢查輸入資料格式，如果有誤要求重新輸入。<br>
+        2.1系統開啟記錄查詢系統。<br><br>
+        3.1根據輸入欲查詢的資料搜尋紀錄並顯示至畫面。<br>
+        3.2如果按取消鍵，系統回至記錄查詢畫面。<br>
     </td>
   </tr> 
   <tr>
