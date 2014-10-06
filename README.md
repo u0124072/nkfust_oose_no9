@@ -176,6 +176,55 @@
     <td colspan=2>無。</td>
   </tr>  
 </table>
+<table border="0" align="left">
+  <tr>
+    <td width="170"><b>使用案例名稱</b></td>
+    <td colspan=2>登記預借作業。</td>
+  </tr>
+  <tr>
+    <td><b>使用案例描述</b></td>
+    <td colspan=2>建立預借資料。</td>
+  </tr>
+  <tr>
+    <td><b>主要參與者</b></td>
+    <td colspan=2>會員。</td>
+  </tr>    
+  <tr>
+    <td><b>利害關係人與目標</b></td>
+    <td colspan=2>能夠正確登記預借資料。</td>
+  </tr>  
+  <tr>
+    <td><b>前置條件</b></td>
+    <td colspan=2>必須是會員。</td>
+  </tr>   
+  <tr>
+    <td><b>後置條件</b></td>
+    <td colspan=2>正確建立預借資料。</td>
+  </tr>       
+  <tr>
+    <td rowspan=2><b>主要成功情節</b></td>
+    <th>參與者</th>
+    <th>系統</th>
+  </tr>       
+  <tr align="left" valign="top">
+    <td>1.會員輸入帳號密碼。<br>
+        2.當有會員登記欲借座位時，會員進入登記預借畫面，建立預借資料。<br>
+        3.會員須人工檢查預借資料是否正確。<br>
+    </td>
+    <td>1.1系統檢查輸入資料格式，如果有誤要求重新輸入。<br>
+        2.1系統開啟建立預借畫面。<br>
+        3.1預借成功，系統則出現”預借成功”，並顯示詳細的預借資料。<br>
+    </td>
+  </tr> 
+  <tr>
+    <th>例外情節</th>
+    <td colspan=2>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
+  </tr>  
+  <tr>
+    <th>其他需求</th>
+    <td colspan=2>無。</td>
+  </tr>  
+</table>
 **陸、個別使用案例的活動圖**
 
 <p><img src="http://i.imgur.com/VEPMri8.png?1" title="個別使用案例的活動圖" /></p>
