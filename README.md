@@ -59,4 +59,4 @@
 | 使用者查詢預借紀錄       | 紀錄查詢作業     |
 
 ##3、使用案例圖
-<p align=center><img src=http://imgur.com/NMn8gCs></p>
+<img src="http://i.imgur.com/NMn8gCs.jpg?1" title="使用案例圖" />
