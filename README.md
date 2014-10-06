@@ -60,7 +60,7 @@
 
 **伍、個別使用案例的描述**
 
-<table border="0" align="left">
+<table border="1" align="left">
   <tr>
     <td width="170"><b>使用案例名稱</b></td>
     <td colspan=2>會員基本資料作業。</td>
