@@ -111,11 +111,11 @@
     </td>
   </tr> 
   <tr>
-    <th>例外情節</th>
+    <td><b>例外情節</b></td>
     <td colspan=2>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
   </tr>  
   <tr>
-    <th>其他需求</th>
+    <td><b>其他需求</b></td>
     <td colspan=2>無。</td>
   </tr>  
 </table>
@@ -168,11 +168,11 @@
     </td>
   </tr> 
   <tr>
-    <th>例外情節</th>
+    <td><b>例外情節</b></td>
     <td colspan=2>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
   </tr>  
   <tr>
-    <th>其他需求</th>
+    <td><b>其他需求</b></td>
     <td colspan=2>無。</td>
   </tr>  
 </table>
@@ -217,11 +217,11 @@
     </td>
   </tr> 
   <tr>
-    <th>例外情節</th>
+    <td><b>例外情節</b></td>
     <td colspan=2>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
   </tr>  
   <tr>
-    <th>其他需求</th>
+    <td><b>其他需求</b></td>
     <td colspan=2>無。</td>
   </tr>  
 </table>
@@ -266,11 +266,11 @@
     </td>
   </tr> 
   <tr>
-    <th>例外情節</th>
+    <td><b>例外情節</b></td>
     <td colspan=2>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
   </tr>  
   <tr>
-    <th>其他需求</th>
+    <td><b>其他需求</b></td>
     <td colspan=2>無。</td>
   </tr>  
 </table>
@@ -316,11 +316,11 @@
     </td>
   </tr> 
   <tr>
-    <th>例外情節</th>
+    <td><b>例外情節</b></td>
     <td colspan=2>*a.如果有欄位無法輸入，或資料無法儲存，系統需要顯示警告訊息並終止輸入。</td>
   </tr>  
   <tr>
-    <th>其他需求</th>
+    <td><b>其他需求</b></td>
     <td colspan=2>無。</td>
   </tr>  
 </table>
