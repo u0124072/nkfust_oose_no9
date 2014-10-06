@@ -56,7 +56,7 @@
 
 **肆、使用案例圖**
 
-<p><img src="http://i.imgur.com/ea5gLD0.jpg?1" title="使用案例圖" /></p>
+<p><img src="http://i.imgur.com/r2dK0XQ.png?1" title="使用案例圖" /></p>
 
 **伍、個別使用案例的描述**
 
