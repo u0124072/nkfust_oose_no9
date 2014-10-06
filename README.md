@@ -62,7 +62,7 @@
 
   <table border="0" align="left">
     <tr>
-      <th width="200">使用案例名稱</th>
+      <td width="170"><b>使用案例名稱</b></td>
       <td colspan=2>會員基本資料作業。</td>
     </tr>
     <tr>
