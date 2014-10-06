@@ -20,7 +20,7 @@
 
 ##1、利害人關係目標表
 
-<table border="1">
+<table border="0">
     <tr>
       <th>利害關係人（參與者）</th>
       <th>目標</th>
