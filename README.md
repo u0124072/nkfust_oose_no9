@@ -56,9 +56,8 @@
 <p><img src="http://i.imgur.com/OoL8MRU.png?1" title="使用案例圖" /></p>
 
 **伍、個別使用案例的描述**
-
-<p>學生基本資料作業<BR>
-<img src="http://i.imgur.com/H2I5JPE.png?1" title="使用案例描述_學生基本資料作業" /></p>
+  學生基本資料作業
+<p><img src="http://i.imgur.com/H2I5JPE.png?1" title="使用案例描述_學生基本資料作業" /></p>
 <p>書桌編號作業<BR>
 <img src="http://i.imgur.com/nM3KD7N.png?1" title="使用案例描述_書桌編號作業" /></p>
 <p>登記預借作業<BR>
