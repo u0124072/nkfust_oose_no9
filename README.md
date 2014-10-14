@@ -74,7 +74,7 @@
 <img src="http://i.imgur.com/yq9wLm7.png?1" title="使用案例活動圖_學生基本資料作業" /></p>
 <p>書桌編號作業<BR>
 <img src="http://i.imgur.com/CBK7xKc.png?1" title="使用案例活動圖_書桌編號作業(新增)" />
-<img src="http://i.imgur.com/Qe5iK7c.png?1" title="使用案例活動圖_書桌編號作業(修改)" />
+<img src="http://i.imgur.com/UZFKFm6.png?1" title="使用案例活動圖_書桌編號作業(修改)" />
 <img src="http://i.imgur.com/5LPmYwL.png?1" title="使用案例活動圖_書桌編號作業(刪除)" /></p>
 <p>登記預借作業<BR>
 <img src="http://i.imgur.com/8T6FULP.png?1" title="使用案例活動圖_登記預借作業" /></p>
