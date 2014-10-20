@@ -72,15 +72,15 @@
 ##<a name="5"/>伍、個別使用案例的描述
 
 **一、學生基本資料作業**
-<p><img src="http://i.imgur.com/H2I5JPE.png?1" title="使用案例描述_學生基本資料作業" /></p>
+<p><img src="http://i.imgur.com/mdr8Jpo.png?1" title="使用案例描述_學生基本資料作業" /></p>
 **二、書桌編號作業**
-<p><img src="http://i.imgur.com/nM3KD7N.png?1" title="使用案例描述_書桌編號作業" /></p>
+<p><img src="http://i.imgur.com/DTis4gg.png?1" title="使用案例描述_書桌編號作業" /></p>
 **三、登記預借作業**
-<p><img src="http://i.imgur.com/AA22hFf.png?1" title="使用案例描述_登記預借作業" /></p>
+<p><img src="http://i.imgur.com/0GZMnwW.png?1" title="使用案例描述_登記預借作業" /></p>
 **四、取消預借作業**
-<p><img src="http://i.imgur.com/ma9hEpQ.png?1" title="使用案例描述_取消預借作業" /></p>
+<p><img src="http://i.imgur.com/H3UKhp4.png?1" title="使用案例描述_取消預借作業" /></p>
 **五、座位查詢作業**
-<p><img src="http://i.imgur.com/BiI4pbF.png?1" title="使用案例描述_座位查詢作業" /></p>
+<p><img src="http://i.imgur.com/fdiBZcW.png?1" title="使用案例描述_座位查詢作業" /></p>
 [Top](#0)
 
 ##<a name="6"/>陸、個別使用案例的活動圖
