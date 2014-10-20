@@ -144,9 +144,9 @@
 **三、登記預借作業**
 <p><img src="http://i.imgur.com/yQi2Evq.png?1" title="合約_登記預借作業" /></p>
 **四、取消預借作業**
-<p><img src="" title="合約_取消預借作業" /></p>
+<p><img src="http://i.imgur.com/BaBU0q2.png?1" title="合約_取消預借作業" /></p>
 **五、座位查詢作業**
-<p><img src="" title="合約_座位查詢作業" /></p>
+<p><img src="http://i.imgur.com/UbjwlWD.png?1" title="合約_座位查詢作業" /></p>
 [Top](#Contents)
 
 ##<a name="11"/>拾壹、個別使用案例之系統循序圖
