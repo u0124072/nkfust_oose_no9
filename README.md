@@ -114,15 +114,15 @@
 ##<a name="8"/>捌、個別使用案例的初步類別圖
 
 **一、學生基本資料作業**
-<p><img src="http://i.imgur.com/6ql7n2b.png?1" title="初步類別圖_學生基本資料作業" /></p>
+<p><img src="http://i.imgur.com/sRM6sUx.png?1" title="初步類別圖_學生基本資料作業" /></p>
 **二、書桌編號作業**
-<p><img src="http://i.imgur.com/6LLiJZZ.png?1" title="初步類別圖_書桌編號作業" /></p>
+<p><img src="http://i.imgur.com/KXhEEvk.png?1" title="初步類別圖_書桌編號作業" /></p>
 **三、登記預借作業**
-<p><img src="http://i.imgur.com/PCGpWRE.png?1" title="初步類別圖_登記預借作業" /></p>
+<p><img src="http://i.imgur.com/KqNQBKg.png?1" title="初步類別圖_登記預借作業" /></p>
 **四、取消預借作業**
-<p><img src="http://i.imgur.com/dfx63Z1.png?1" title="初步類別圖_取消預借作業" /></p>
-**五、紀錄查詢作業**
-<p><img src="http://i.imgur.com/SZHocfY.png?1" title="初步類別圖_紀錄查詢作業" /></p>
+<p><img src="http://i.imgur.com/xjhAZ9l.png?1" title="初步類別圖_取消預借作業" /></p>
+**五、座位查詢作業**
+<p><img src="http://i.imgur.com/xDG8zP9.png?1" title="初步類別圖_座位查詢作業" /></p>
 [Top](#0)
 
 ##<a name="9"/>玖、整個系統的初步類別圖
