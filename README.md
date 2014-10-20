@@ -127,5 +127,5 @@
 
 ##<a name="9"/>玖、整個系統的初步類別圖
 
-<p><img src="http://i.imgur.com/suuS1Oy.png?1" title="整個系統的初步類別圖" /></p>
+<p><img src="http://i.imgur.com/Rg6KcU3.png?1" title="整個系統的初步類別圖" /></p>
 [Top](#0)
