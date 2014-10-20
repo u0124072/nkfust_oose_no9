@@ -138,26 +138,15 @@
 ##<a name="10"/>拾、個別名稱事件之合約
 
 **一、學生基本資料作業**
-<p><img src="" title="合約1: inputStudent()" /></p>
-<p><img src="" title="合約2: checkStudentData(studentData)" /></p>
-<p><img src="" title="合約3: saveStudentRec(studentRec)" /></p>
+<p><img src="http://i.imgur.com/6iNXtX6.png?1" title="合約_學生基本資料作業" /></p>
 **二、書桌編號作業**
-<p><img src="" title="合約1: inputDesk()" /></p>
-<p><img src="" title="合約2: checkDeskData(deskData)" /></p>
-<p><img src="" title="合約3: saveDeskRec(deskRec)" /></p>
-<p><img src="" title="合約4: modifyDeskRec(deskID)" /></p>
-<p><img src="" title="合約5: deletDeskRec(deskID)" /></p>
+<p><img src="" title="合約_書桌編號作業" /></p>
 **三、登記預借作業**
-<p><img src="" title="合約1: login(studentID,studentPW)" /></p>
-<p><img src="" title="合約2: checkTime(timeRec)" /></p>
-<p><img src="" title="合約3: inputOrder(orderRec)" /></p>
+<p><img src="" title="合約_登記預借作業" /></p>
 **四、取消預借作業**
-<p><img src="" title="合約1: login(studentID,studentPW)" /></p>
-<p><img src="" title="合約2: cancelOrder(orderRec)" /></p>
+<p><img src="" title="合約_取消預借作業" /></p>
 **五、座位查詢作業**
-<p><img src="" title="合約1: login(ID,PW)" /></p>
-<p><img src="" title="合約2: searchOrderRec(orderRec)" /></p>
-<p><img src="" title="合約3: checkOrderRec(orderRec)" /></p>
+<p><img src="" title="合約_座位查詢作業" /></p>
 [Top](#0)
 
 ##<a name="11"/>拾壹、個別使用案例之系統循序圖
