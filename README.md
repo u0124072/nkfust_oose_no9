@@ -71,7 +71,7 @@
 ##<a name="4"/>肆、使用案例圖
 
 <p><img src="http://i.imgur.com/01WTUOV.jpg?1" title="使用案例圖" /></p>
-[Top](#0)
+<p>[Top](#0)</p>
 
 ##<a name="5"/>伍、個別使用案例的描述
 
