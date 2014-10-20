@@ -79,24 +79,22 @@
 <p><img src="http://i.imgur.com/AA22hFf.png?1" title="使用案例描述_登記預借作業" /></p>
 **四、取消預借作業**
 <p><img src="http://i.imgur.com/ma9hEpQ.png?1" title="使用案例描述_取消預借作業" /></p>
-**五、紀錄查詢作業**
-<p><img src="http://i.imgur.com/BiI4pbF.png?1" title="使用案例描述_紀錄查詢作業" /></p>
+**五、座位查詢作業**
+<p><img src="http://i.imgur.com/BiI4pbF.png?1" title="使用案例描述_座位查詢作業" /></p>
 [Top](#0)
 
 ##<a name="6"/>陸、個別使用案例的活動圖
 
 **一、學生基本資料作業**
-<p><img src="http://i.imgur.com/yq9wLm7.png?1" title="使用案例活動圖_學生基本資料作業" /></p>
+<p><img src="http://i.imgur.com/yKayyFz.png?1" title="使用案例活動圖_學生基本資料作業" /></p>
 **二、書桌編號作業**
-<p><img src="http://i.imgur.com/CBK7xKc.png?1" title="使用案例活動圖_書桌編號作業(新增)" />
-<img src="http://i.imgur.com/UZFKFm6.png?1" title="使用案例活動圖_書桌編號作業(修改)" />
-<img src="http://i.imgur.com/5LPmYwL.png?1" title="使用案例活動圖_書桌編號作業(刪除)" /></p>
+<p><img src="http://i.imgur.com/9kMKdpL.png?1" title="使用案例活動圖_書桌編號作業(新增)" /></p>
 **三、登記預借作業**
-<p><img src="http://i.imgur.com/8T6FULP.png?1" title="使用案例活動圖_登記預借作業" /></p>
+<p><img src="http://i.imgur.com/G5y7qsl.png?1" title="使用案例活動圖_登記預借作業" /></p>
 **四、取消預借作業**
-<p><img src="http://i.imgur.com/6D8LVmx.png?1" title="使用案例活動圖_取消預借作業" /></p>
-**五、紀錄查詢作業**
-<p><img src="http://i.imgur.com/XSqoXaC.png?1" title="使用案例活動圖_紀錄查詢作業" /></p>
+<p><img src="http://i.imgur.com/M1ViVvI.png?1" title="使用案例活動圖_取消預借作業" /></p>
+**五、座位查詢作業**
+<p><img src="http://i.imgur.com/RnPoaWA.png?1" title="使用案例活動圖_座位查詢作業" /></p>
 [Top](#0)
 
 ##<a name="7"/>柒、個別使用案例的名詞與概念類別列舉表
