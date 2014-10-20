@@ -123,7 +123,7 @@
 **三、登記預借作業**
 <p><img src="http://i.imgur.com/KqNQBKg.png?1" title="初步類別圖_登記預借作業" /></p>
 **四、取消預借作業**
-<p><img src="http://i.imgur.com/xjhAZ9l.png?1" title="初步類別圖_取消預借作業" /></p>
+<p><img src="http://i.imgur.com/tAC7j6p.png?1" title="初步類別圖_取消預借作業" /></p>
 **五、座位查詢作業**
 <p><img src="http://i.imgur.com/xDG8zP9.png?1" title="初步類別圖_座位查詢作業" /></p>
 [Top](#0)
