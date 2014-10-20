@@ -107,8 +107,8 @@
 <p><img src="http://i.imgur.com/3nwcAZR.png?1" title="名詞與概念類別列舉表_登記預借作業" /></p>
 **四、取消預借作業**
 <p><img src="http://i.imgur.com/PTADheD.png?1" title="名詞與概念類別列舉表_取消預借作業" /></p>
-**五、紀錄查詢作業**
-<p><img src="http://i.imgur.com/b5Ke8No.png?1" title="名詞與概念類別列舉表_紀錄查詢作業" /></p>
+**五、座位查詢作業**
+<p><img src="http://i.imgur.com/b5Ke8No.png?1" title="名詞與概念類別列舉表_座位查詢作業" /></p>
 [Top](#0)
 
 ##<a name="8"/>捌、個別使用案例的初步類別圖
