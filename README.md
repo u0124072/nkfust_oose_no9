@@ -119,7 +119,7 @@
 ##<a name="8"/>捌、個別使用案例的初步類別圖
 
 **一、學生基本資料作業**
-<p><img src="http://i.imgur.com/lngZujT.png?1" title="初步類別圖_學生基本資料作業" /></p>
+<p><img src="http://i.imgur.com/5rUDyhz.png?1" title="初步類別圖_學生基本資料作業" /></p>
 **二、書桌編號作業**
 <p><img src="http://i.imgur.com/ZdWRwMg.png?1" title="初步類別圖_書桌編號作業" /></p>
 **三、登記預借作業**
