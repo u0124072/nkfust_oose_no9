@@ -154,7 +154,7 @@
 **一、學生基本資料作業**
 <p><img src="http://i.imgur.com/JKGU3Sa.png?1" title="循序圖_學生基本資料作業" /></p>
 **二、書桌編號作業**
-<p><img src="http://i.imgur.com/DBn48F4.png?1" title="循序圖_書桌編號作業" /></p>
+<p><img src="http://i.imgur.com/BgZEZqM.jpg?1" title="循序圖_書桌編號作業" /></p>
 **三、登記預借作業**
 <p><img src="http://i.imgur.com/nopmdpx.png?1" title="循序圖_登記預借作業" /></p>
 **四、取消預借作業**
