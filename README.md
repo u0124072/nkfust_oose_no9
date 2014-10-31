@@ -77,15 +77,15 @@
 ##<a name="5"/>伍、個別使用案例的描述
 
 **一、學生基本資料作業**
-<p><img src="http://i.imgur.com/ZlbaGqp.png?1" title="使用案例描述_學生基本資料作業" /></p>
+<p><img src="http://i.imgur.com/YvabBqN.png?1" title="使用案例描述_學生基本資料作業" /></p>
 **二、書桌編號作業**
-<p><img src="http://i.imgur.com/oYK1qPH.png?1" title="使用案例描述_書桌編號作業" /></p>
+<p><img src="http://i.imgur.com/18PMb6t.png?1" title="使用案例描述_書桌編號作業" /></p>
 **三、登記預借作業**
-<p><img src="http://i.imgur.com/tTHKgMV.png?1" title="使用案例描述_登記預借作業" /></p>
+<p><img src="http://i.imgur.com/4DXxDBJ.png?1" title="使用案例描述_登記預借作業" /></p>
 **四、取消預借作業**
-<p><img src="http://i.imgur.com/OwlTquN.png?1" title="使用案例描述_取消預借作業" /></p>
+<p><img src="http://i.imgur.com/uKYrJg5.png?1" title="使用案例描述_取消預借作業" /></p>
 **五、座位查詢作業**
-<p><img src="http://i.imgur.com/FIyZzmt.png?1" title="使用案例描述_座位查詢作業" /></p>
+<p><img src="http://i.imgur.com/jm6SEui.png?1" title="使用案例描述_座位查詢作業" /></p>
 [Top](#Contents)
 
 ##<a name="6"/>陸、個別使用案例的活動圖
@@ -123,9 +123,9 @@
 **二、書桌編號作業**
 <p><img src="http://i.imgur.com/tWl1oMT.png?1" title="初步類別圖_書桌編號作業" /></p>
 **三、登記預借作業**
-<p><img src="http://i.imgur.com/xxcsbj6.png?1" title="初步類別圖_登記預借作業" /></p>
+<p><img src="http://i.imgur.com/TVwxN59.png" title="初步類別圖_登記預借作業" /></p>
 **四、取消預借作業**
-<p><img src="http://i.imgur.com/mizrYcc.png?1" title="初步類別圖_取消預借作業" /></p>
+<p><img src="http://i.imgur.com/TVwxN59.png" title="初步類別圖_取消預借作業" /></p>
 **五、座位查詢作業**
 <p><img src="http://i.imgur.com/Se5DkAQ.png?1" title="初步類別圖_座位查詢作業" /></p>
 [Top](#Contents)
