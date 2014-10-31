@@ -91,9 +91,9 @@
 ##<a name="6"/>陸、個別使用案例的活動圖
 
 **一、學生基本資料作業**
-<p><img src="http://i.imgur.com/TXMb2mj.png?1" title="使用案例活動圖_學生基本資料作業" /></p>
+<p><img src="http://i.imgur.com/cv5lIhl.png?1" title="使用案例活動圖_學生基本資料作業" /></p>
 **二、書桌編號作業**
-<p><img src="http://i.imgur.com/3mu5vjh.png?1" title="使用案例活動圖_書桌編號作業(新增)" /></p>
+<p><img src="http://i.imgur.com/oFQlMfz.png?1" title="使用案例活動圖_書桌編號作業(新增)" /></p>
 **三、登記預借作業**
 <p><img src="http://i.imgur.com/OqbcaSy.png?1" title="使用案例活動圖_登記預借作業" /></p>
 **四、取消預借作業**
