@@ -21,7 +21,7 @@
 * [玖、整個系統的初步類別圖](#9)
 * [拾、個別名稱事件之合約](#10)
 * [拾壹、個別使用案例之系統循序圖](#11)
-
+* [拾貳、整個系統的循序圖](#12)
 
 ##<a name="1"/>壹、動機
 
@@ -161,4 +161,9 @@
 <p><img src="http://i.imgur.com/nMkRX6X.png?1" title="循序圖_取消預借作業" /></p>
 **五、座位查詢作業**
 <p><img src="http://i.imgur.com/wgYmui7.png?1" title="循序圖_座位查詢作業" /></p>
+[Top](#Contents)
+
+##<a name="12"/>拾貳、整個系統的循序圖
+
+<p><img src="http://i.imgur.com/gEDScgC.png?1" title="整個系統的循序圖" /></p>
 [Top](#Contents)
