@@ -165,5 +165,9 @@
 
 ##<a name="12"/>拾貳、整個系統的循序圖
 
-<p><img src="http://i.imgur.com/gEDScgC.png?1" title="整個系統的循序圖" /></p>
+<p><img src="http://i.imgur.com/ZD9Rw61.png?1" title="整個系統的循序圖" /></p>
 [Top](#Contents)
+
+<p><img src="http://i.imgur.com/qVs4fmS.png?1" title="強韌圖" /></p>
+[Top](#Contents)
+
