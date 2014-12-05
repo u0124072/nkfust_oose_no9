@@ -22,6 +22,8 @@
 * [拾、個別名稱事件之合約](#10)
 * [拾壹、個別使用案例之系統循序圖](#11)
 * [拾貳、整個系統的循序圖](#12)
+* [拾參、強韌圖](#13)
+
 
 ##<a name="1"/>壹、動機
 
@@ -167,6 +169,8 @@
 
 <p><img src="http://i.imgur.com/ZD9Rw61.png?1" title="整個系統的循序圖" /></p>
 [Top](#Contents)
+
+##<a name="13"/>拾參、強韌圖
 
 <p><img src="http://i.imgur.com/qVs4fmS.png?1" title="強韌圖" /></p>
 [Top](#Contents)
