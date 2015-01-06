@@ -1,0 +1,51 @@
+#abgneBlock {
+	width: 750px;
+	height: 357px;
+	position: relative;
+	overflow: hidden;
+	margin:0 auto;
+	
+	/* border: 5px solid #ccc; */
+	border-top: 10px solid rgba(100%,100%,100%,0.4);
+	border-right: 10px solid rgba(55%,55%,55%,0.4);
+	border-bottom: 10px solid rgba(30%,30%,30%,0.4);
+	border-left: 10px solid rgba(80%,80%,80%,0.4);
+}
+#abgneBlock ul.list {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	position: absolute;
+	width: 9999px;
+	height: 100%;
+}
+#abgneBlock ul.list li {
+	float: left;
+	width: 750px;
+	height: 100%;
+}
+#abgneBlock .list img{
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+#abgneBlock ul.playerControl {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	height: 14px;
+}
+#abgneBlock ul.playerControl li {
+	float: left;
+	width: 23px;
+	height: 14px;
+	cursor: pointer;
+	margin: 0px 2px;
+	background: url("../images/rect_ctrl.png") no-repeat 0 0;
+}
+#abgneBlock ul.playerControl li.current { 
+	background-position: -23px 0;
+}

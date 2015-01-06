@@ -1,0 +1,34 @@
+ul.playlist {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 260px;
+	float: left;
+}
+ul.playlist li {
+	margin: 0 3px;
+	float: left;
+}
+ul.playlist li a img {
+	border: 0;
+	vertical-align: middle;
+}
+ 
+.tv {
+	background-color: rgba(255,255,255,0.4);
+	float:left;
+	margin: 0 0 20px 20px;
+	padding: 20px 10px;
+	width: 900px;
+	height: 360px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;	
+}
+.video {
+	float: left;
+	margin-left: 85px;
+	width: 480px;
+	height: 360px;
+}

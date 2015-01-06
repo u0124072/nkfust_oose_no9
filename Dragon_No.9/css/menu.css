@@ -1,0 +1,43 @@
+	#menu {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	position: relative;
+	width: 100%;
+	z-index:1;
+	float: left;
+	color: #fff;
+	background-color: #724c21;
+	}
+	#menu li {
+		margin: 0;
+		padding: 0;
+		float: left;
+		border-right: 1px solid #fdfceb;
+	}
+	#menu li a {
+	padding: 10px 15px;
+	display: block;
+	color: #FFFFFF;
+	text-decoration: blink;
+	font-family: "微軟正黑體";
+	font-weight: bold;
+	}
+	#menu li ul {
+		margin: 0;
+		padding: 5px 0;
+		list-style: none;
+		float: left;
+		position: absolute;
+		left: 0;
+		width: 100%;
+		color: #fff;
+		background-color:#9d7841;
+		display: none;
+		border-bottom-left-radius:8px;
+		border-bottom-right-radius:8px;
+	}
+	#menu li ul li:last-child {border-right: 0px;}
+	#menu li ul li { border-right: 1px solid #fff; }
+	#menu li ul li a { font-size:16px;display: inline;}
+	#menu li ul li a:hover { text-decoration: underline; }

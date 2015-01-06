@@ -1,0 +1,17 @@
+[30-Dec-2014 06:27:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 40
+[30-Dec-2014 06:35:26 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 44
+[30-Dec-2014 06:35:27 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 44
+[30-Dec-2014 06:49:43 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:49:43 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:49:47 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:50:07 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:50:08 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:52:24 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:52:25 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:52:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:52:44 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:53:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:53:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:53:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 100
+[30-Dec-2014 06:53:42 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 99
+[30-Dec-2014 06:53:42 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in H:\TWAMPd\htdocs\Dragon_No.9\process\adminerPage_b.php on line 99

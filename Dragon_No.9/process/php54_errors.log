@@ -1,0 +1,53 @@
+[30-Dec-2014 07:51:01 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 07:51:02 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 07:51:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 07:51:05 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 07:51:06 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 07:51:07 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 07:51:08 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 07:51:08 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 07:51:08 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 07:51:09 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 70
+[30-Dec-2014 12:18:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:13 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:14 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:15 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:16 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:16 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:16 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:19 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:18:19 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerPageSearch.php on line 69
+[30-Dec-2014 12:55:28 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'mysql_query' (T_STRING), expecting ',' or ';' in G:\TWAMPd\htdocs\Dragon_No.9\process\process_adminerStudent.php on line 26
+[30-Dec-2014 14:40:12 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 63
+[30-Dec-2014 14:41:21 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 63
+[30-Dec-2014 14:41:23 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 63
+[30-Dec-2014 14:44:47 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 63
+[30-Dec-2014 14:44:49 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 63
+[30-Dec-2014 14:46:19 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$qq' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 60
+[30-Dec-2014 14:46:21 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$qq' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 60
+[30-Dec-2014 14:46:33 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$qq' (T_VARIABLE) in G:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 60
+[05-Jan-2015 19:47:14 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 59
+[05-Jan-2015 19:47:16 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 59
+[05-Jan-2015 19:47:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 59
+[05-Jan-2015 20:15:25 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 56
+[05-Jan-2015 20:15:28 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 56
+[05-Jan-2015 20:23:45 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 97
+[05-Jan-2015 20:23:48 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 97
+[05-Jan-2015 20:24:21 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 97
+[05-Jan-2015 20:54:15 Asia/Taipei] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 59
+[05-Jan-2015 21:02:39 Asia/Taipei] PHP Parse error:  syntax error, unexpected '/' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 116
+[05-Jan-2015 22:41:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 131
+[05-Jan-2015 22:43:10 Asia/Taipei] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 131
+[05-Jan-2015 22:46:16 Asia/Taipei] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in H:\TWAMPd\htdocs\Dragon_No.9\process\process_clerk.php on line 131
+[06-Jan-2015 13:50:28 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\connect.php on line 10
+[06-Jan-2015 13:50:28 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in G:\TWAMPd\htdocs\Dragon_No.9\process\connect.php on line 13
