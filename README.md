@@ -23,6 +23,8 @@
 * [拾壹、個別使用案例之系統循序圖](#11)
 * [拾貳、整個系統的循序圖](#12)
 * [拾參、強韌圖](#13)
+* [拾肆、ER圖](#14)
+* [拾伍、成果展示](#15)
 
 
 ##<a name="1"/>壹、動機
@@ -175,3 +177,22 @@
 <p><img src="http://i.imgur.com/qVs4fmS.png?1" title="強韌圖" /></p>
 [Top](#Contents)
 
+##<a name="14"/>拾肆、ER圖
+
+<p><img src="http://i.imgur.com/EAK77TQ.png" title="ER圖" /></p>
+[Top](#Contents)
+
+##<a name="15"/>拾伍、成果展示
+
+**一、登入**
+<p><img src="http://i.imgur.com/bd5uNJl.png" title="成果展示_登入" /></p>
+**二、學生**
+<p><img src="http://i.imgur.com/0pVELeB.png" title="成果展示_學生頁面" /></p>
+<p><img src="http://i.imgur.com/bflqwkb.png" title="成果展示_預借頁面" /></p>
+<p><img src="http://i.imgur.com/P10FK6B.png" title="成果展示_管理頁面" /></p>
+<p><img src="http://i.imgur.com/INsSuwd.png" title="成果展示_查詢頁面" /></p>
+**三、圖書館員**
+<p><img src="http://i.imgur.com/qVYUv3R.png" title="成果展示_圖書館員頁面" /></p>
+**四、系統管理員**
+<p><img src="http://i.imgur.com/5kSa1a2.png" title="成果展示_系統管理員頁面" /></p>
+[Top](#Contents)
